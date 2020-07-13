@@ -1,4 +1,4 @@
 # HelloWorld
-Basic HelloWorld Plugin
+👋 - Basic HelloWorld Plugin
 
 Compatible with all versions
