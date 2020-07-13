@@ -1,0 +1,9 @@
+main: com.HomeSMP.HelloWorld.Main
+name: HelloWorld
+version: 1.0
+author: spencermacca
+
+commands:
+  Hello:
+  
+  
